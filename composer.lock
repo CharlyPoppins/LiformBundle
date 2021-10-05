@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4764e1dc4d069acd9cb067f38b80a4ee",
+    "content-hash": "15c5dd714df91c1c338587f44801c0a1",
     "packages": [
         {
             "name": "limenius/liform",

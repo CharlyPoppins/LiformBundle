@@ -22,6 +22,5 @@
        "type": "vcs",
        "url": "https://github.com/CharlyPoppins/Liform"
     }
-  ],
-  "minimum-stability": "stable"
+  ]
 }
